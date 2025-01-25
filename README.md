@@ -1,48 +1,46 @@
-#  Ayesha Andleeb  
+# 👩‍💻 Ayesha Andleeb  
 
 🎓 **Final Year IT Student | Aspiring PhD Candidate**  
-🚀 **Passionate about Data Science, AI/ML, and Competitive Programming**  
+🚀 **Passionate about AI/ML, Data Science, and Competitive Programming**  
 
 ---
 
 ## 🌟 Achievements  
-- 🏆 **Winner** of Harvard CS50x Puzzle Day, solving all 9 puzzles.  
-- 🎖️ **Section Leader** at Stanford University Code in Place; mentored students in Python.  
-- 🥇 **Champion** of an international hackathon at LabLab for innovative solutions.  
-- 🏅 Qualified in the **Meta Hacker Cup** practice round and Round 1.  
-- 📚 Participated in **Advent of Code 2024**, solving multiple coding challenges.  
-- 🎤 Guest speaker for **Meta Hacker Cup 2024**.  
+- 🏆 **Winner** of Harvard CS50x Puzzle Day (solved all 9 puzzles).  
+- 🎖️ **Section Leader** at Stanford University Code in Place; mentored students globally in Python.  
+- 🥇 **Champion** of an international hackathon at LabLab for innovative AI solutions.  
+- 🏅 **Meta Hacker Cup Qualifier** (Practice Round & Round 1).  
+- 🎉 Participated in **Advent of Code 2024**, solving challenging problems.  
 
 ---
 
 ## 🛠️ Skills  
-### Programming Languages  
-- **Python**, **C++**, **Java**, **HTML/CSS**, **Bootstrap**  
+### Programming  
+- **Python**, **C++**, **Java**  
+- **HTML/CSS**, **Bootstrap**  
 
 ### AI/ML Tools  
-- Libraries: Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn  
-- Platforms: Google Colab, Jupyter Notebook, Hugging Face, Streamlit  
+- **Libraries**: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn  
+- **Platforms**: Google Colab, Jupyter Notebook, Hugging Face, Streamlit  
 
-### Collaboration and Teaching  
-- **Mentored** students in Python, Data Structures, and Algorithms.  
-- Experienced in **teamwork** with diverse, international teams.
-- 
+### Collaboration  
+- **Mentorship**: Guided students in Python, Data Structures, and Algorithms.  
+- **Teamwork**: Successfully collaborated with international teams in hackathons.  
+
 ---
 
 ## 🌱 Interests  
-- **AI Research and Development**  
-- **Natural Language Processing (NLP)**  
-- **Hackathons and Competitive Programming**  
-- **Volunteering and Education**  
+- **AI Research and NLP**  
+- **Competitive Programming**  
+- **Hackathons**  
 
 ---
 
-## 📫 Let's Connect!  
+## 📫 Connect with Me  
 - **LinkedIn**: [Ayesha Andleeb](https://www.linkedin.com/in/ayesha-andleeb-262352278/)  
 - **GitHub**: [AyeshaAndleeb](https://github.com/AyeshaAndleeb)  
 - **Email**: [ayesha0129@gmail.com](mailto:ayesha0129@gmail.com)  
-- **LeetCode**: [Ayesha Andleeb](https://leetcode.com/u/Ayesha-Andleeb/)  
 
 ---
 
-🌟 "Striving to create meaningful impacts through technology and innovation." 🌟
+🌟 **"Innovating through technology to create meaningful impacts."** 🌟
