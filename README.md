@@ -1,4 +1,4 @@
-# 💻 Ayesha Andleeb  
+#  Ayesha Andleeb  
 
 🎓 **Final Year IT Student | Aspiring PhD Candidate**  
 🚀 **Passionate about Data Science, AI/ML, and Competitive Programming**  
