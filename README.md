@@ -1,65 +1,57 @@
-# 👩‍💻 Ayesha Andleeb  
+# 💻 Ayesha Andleeb  
 
-🎓 **Final Year IT Student | Aspiring PhD Candidate in AI/ML**  
-🌟 **Hackathon Champion | Competitive Programmer | Educator**  
-
-Welcome to my GitHub profile! I am a passionate technologist with a deep interest in Data Science, Artificial Intelligence, and Machine Learning. My mission is to leverage technology for impactful solutions while continuously growing through challenges and collaborations.  
+🎓 **Final Year IT Student | Aspiring PhD Candidate**  
+🚀 **Passionate about Data Science, AI/ML, and Competitive Programming**  
 
 ---
 
-## 🏆 Achievements  
-- 🏅 **Winner** of Harvard CS50x Puzzle Day (Solved all 9 puzzles).  
-- 🌍 **Section Leader** at Stanford University Code in Place, mentoring students globally in Python.  
-- 🥇 **Champion** of an international hackathon at LabLab for innovative AI solutions.  
-- 🔥 Qualified in the **Meta Hacker Cup** practice round and Round 1.  
-- 🎉 Active participant in **Advent of Code 2024**, solving complex problems.  
-- 🎤 Invited as a **guest speaker** for Meta Hacker Cup 2024.  
+## 🌟 Achievements  
+- 🏆 **Winner** of Harvard CS50x Puzzle Day, solving all 9 puzzles.  
+- 🎖️ **Section Leader** at Stanford University Code in Place; mentored students in Python.  
+- 🥇 **Champion** of an international hackathon at LabLab for innovative solutions.  
+- 🏅 Qualified in the **Meta Hacker Cup** practice round and Round 1.  
+- 📚 Participated in **Advent of Code 2024**, solving multiple coding challenges.  
+- 🎤 Guest speaker for **Meta Hacker Cup 2024**.  
 
 ---
 
-## 💼 Projects  
-Here are a few projects that highlight my expertise and passion for AI and technology:  
-
-### 🔗 [SHOP GINI](https://lablab.ai/event/advanced-rag-hackathon/ragistan/shop-gini)  
-📌 **Hackathon**: Advanced Rag Hackathon | **Role**: AI Engineer  
-- Developed an AI-powered recommendation system to suggest accurate products using e-commerce data.  
-
-### 📖 [E-Z READ](https://lablab.ai/event/lablab-next-create-your-startup/ez-read/ez-read)  
-📌 **Hackathon**: Next Hackathon | **Role**: AI Engineer  
-- Created a Generative AI tool for assembling comics with consistent characters, leveraging Stable Diffusion.  
-
-### 💡 [CodeBlast Dream Catcher](https://lablab.ai/event/codestral-ai-hackathon/codeblast/codeblast-dream-catcher)  
-📌 **Hackathon**: Mistral AI Hackathon | **Role**: AI Engineer  
-- Simplified knowledge discovery through LLMs and advanced data mapping techniques.  
-
----
-
-## 🔧 Technical Skills  
-### Languages  
+## 🛠️ Skills  
+### Programming Languages  
 - **Python**, **C++**, **Java**, **HTML/CSS**, **Bootstrap**  
 
 ### AI/ML Tools  
-- **Libraries**: Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn  
-- **Platforms**: Hugging Face, Google Colab, Jupyter Notebook, Streamlit  
+- Libraries: Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn  
+- Platforms: Google Colab, Jupyter Notebook, Hugging Face, Streamlit  
 
-### Additional Skills  
-- **Teaching**: Python, Data Structures, Algorithms, and IELTS to underprivileged students.  
-- **Collaboration**: Proven ability to thrive in international, cross-functional teams.  
-
----
-
-## 🌱 Current Focus  
-- Exploring **Generative AI** and building cutting-edge applications using **Hugging Face Spaces**.  
-- Actively solving **LeetCode challenges** (Daily problem-solving for competitive programming).  
-- Preparing for international hackathons and academic opportunities in **AI research**.  
+### Collaboration and Teaching  
+- **Mentored** students in Python, Data Structures, and Algorithms.  
+- Experienced in **teamwork** with diverse, international teams.  
 
 ---
 
-## 🎯 Interests  
-- Artificial Intelligence and **NLP**  
-- Hackathons and Competitive Programming  
-- Research and Development in AI/ML  
-- Empowering others through teaching and mentorship  
+## 🏗️ Projects  
+### 📦 [SHOP GINI](https://lablab.ai/event/advanced-rag-hackathon/ragistan/shop-gini)  
+- **Hackathon**: Advanced Rag Hackathon  
+- **Role**: AI Engineer  
+- Developed a recommendation system for e-commerce product suggestions.  
+
+### 🎨 [E-Z READ](https://lablab.ai/event/lablab-next-create-your-startup/ez-read/ez-read)  
+- **Hackathon**: Next Hackathon  
+- **Role**: AI Engineer  
+- Created a Generative AI tool for assembling comics with consistent characters.  
+
+### 💡 [CodeBlast Dream Catcher](https://lablab.ai/event/codestral-ai-hackathon/codeblast/codeblast-dream-catcher)  
+- **Hackathon**: Mistral AI Hackathon  
+- **Role**: AI Engineer  
+- Simplified knowledge discovery using LLMs and 2D/1D mapping.  
+
+---
+
+## 🌱 Interests  
+- **AI Research and Development**  
+- **Natural Language Processing (NLP)**  
+- **Hackathons and Competitive Programming**  
+- **Volunteering and Education**  
 
 ---
 
@@ -71,4 +63,4 @@ Here are a few projects that highlight my expertise and passion for AI and techn
 
 ---
 
-🌟 **"Technology is not just a tool; it's an opportunity to transform ideas into impactful realities."** 🌟
+🌟 "Striving to create meaningful impacts through technology and innovation." 🌟
