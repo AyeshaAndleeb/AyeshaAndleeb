@@ -3,7 +3,7 @@
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ayesha-andleeb-262352278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 🛠️ Languages and Tools  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -43,22 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaAndleeb&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaAndleeb&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaAndleeb&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🌱 Current Focus  
-- **Learning Generative AI:** Building cutting-edge applications with **Hugging Face Spaces**.  
-- **Competitive Programming:** Solving **LeetCode problems** daily to enhance problem-solving skills.  
-- **Research Goals:** Preparing for international hackathons and pursuing a PhD scholarship in AI research.  
-
----
-
-<p align="center">
-  🌟 **"Driven by curiosity, passion, and innovation in technology."** 🌟  
+<p align="center"> 
+  🌟 **"Striving to innovate and inspire through technology."** 🌟  
 </p>
