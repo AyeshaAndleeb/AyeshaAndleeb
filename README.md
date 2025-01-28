@@ -21,12 +21,18 @@
 
 ---
 
-## 🌟 Achievements  
-- 🏆 **Winner** of **Harvard CS50x Puzzle Day** (solved all 9 puzzles).  
-- 🎖️ **Section Leader** at Stanford University Code in Place; mentored students globally in Python.  
-- 🥇 **Champion** of an international hackathon at LabLab for innovative AI solutions.  
-- 🔥 Qualified in the **Meta Hacker Cup** practice round and Round 1.  
-- 🎉 Active participant in **Advent of Code 2024**, solving challenging programming problems.  
+## 🏆 Achievements
+
+- **[Won Harvard CS50x Puzzle Day](https://www.linkedin.com/feed/update/urn:li:activity:7268930886098722816/)** by solving all 9 puzzles, showcasing exceptional problem-solving skills.
+- Selected as a **[Section Leader for Stanford University Code in Place](https://www.linkedin.com/feed/update/urn:li:activity:7248659512172199936/)**, becoming the only student from my university to earn this distinction and featured on the university department's page.
+- **[Winner of an international hackathon at LabLab](https://www.facebook.com/61551216354613/posts/122162622338040545/?rdid=8UpGkSZD1SziyawD#)**, recognized for innovative solutions.
+- **[Qualified in the Meta Hacker Cup practice round and Round 1](https://www.linkedin.com/posts/ayesha-andleeb-262352278_metaabrhackerabrcupabr2024-hayatianabrcomputingabrsociety-activity-7239457700823072769-FwzW?utm_source=share&utm_medium=member_desktop)**, demonstrating competitive coding abilities.
+- Participated in the **[UC Barely Coding Competition](https://www.linkedin.com/posts/ayesha-andleeb-262352278_thrilled-to-announce-our-3rd-place-win-activity-7228051381528535040-d2ja?utm_source=share&utm_medium=member_desktop)**, where I tested my skills in a highly competitive environment.
+- Actively participated in **[Advent of Code 2024](https://www.linkedin.com/feed/update/urn:li:activity:7248659512172199936/)**, solving multiple challenging problems to expand coding expertise.
+- Invited as a **guest speaker for [Meta Hacker Cup 2024](https://www.linkedin.com/feed/update/urn:li:activity:7248659512172199936/)**.
+
+
+  
 
 ---
 
