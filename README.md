@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayesha Andleeb</h1>
-<h3 align="center">🚀 Final Year IT Student | Aspiring PhD Candidate | AI/ML Enthusiast | Competitive Programmer 🚀</h3>
+<h3 align="center">🚀 Final Year IT Student | Graduate Candidate | AI/ML Enthusiast | Competitive Programmer 🚀</h3>
+
+<p align="center">
+  🌟 **"Innovating solutions and inspiring change through the power of technology."** 🌟
+</p>
 
 ---
 
@@ -31,24 +35,63 @@
 - Actively participated in **[Advent of Code 2024](https://www.linkedin.com/feed/update/urn:li:activity:7248659512172199936/)**, solving multiple challenging problems to expand coding expertise.
 - Invited as a **guest speaker for [Meta Hacker Cup 2024](https://www.linkedin.com/feed/update/urn:li:activity:7248659512172199936/)**.
 
-
-  
-
 ---
 
 ## 🛠️ Languages and Tools  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-</p>
 
----
-
-<p align="center"> 
-  🌟 **"Striving to innovate and inspire through technology."** 🌟  
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+        <br>Python
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+        <br>C++
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+        <br>Java
+      </td>
+      <td align="center" width="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
+        <br>Scikit-learn
+      </td>
+      <td align="center" width="120">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
+        <br>TensorFlow
+      </td>
+      <td align="center" width="120">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/>
+        <br>PyTorch
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+        <br>NumPy
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+        <br>Pandas
+      </td>
+      <td align="center" width="120">
+        <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="50"/>
+        <br>Seaborn
+      </td>
+      <td align="center" width="120">
+        <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="80" height="50"/>
+        <br>Matplotlib
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+        <br>Docker
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+        <br>GitHub
+      </td>
+    </tr>
+  </table>
+</div>
