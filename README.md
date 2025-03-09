@@ -1,9 +1,5 @@
-# Ayesha Andleeb 🚀
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayesha-andleeb)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aysha.00129@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/ayesha-andleeb)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayesha-andleeb)
+# Ayesha Andleeb 🚀  
+**Graduate Aspirant | AI & ML Engineer**
 
 ---
 
@@ -55,8 +51,16 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaAndleeb&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
-  <img src="https://komarev.com/ghpvc/?username=AyeshaAndleeb&color=blue&style=flat-square" alt="Profile Views" width="45%" />
 </div>
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayesha-andleeb)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aysha.00129@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/ayesha-andleeb)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayesha-andleeb)
 
 ---
 
