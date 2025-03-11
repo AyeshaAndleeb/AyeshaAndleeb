@@ -48,10 +48,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AyeshaAndleeb&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaAndleeb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaAndleeb&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
-</div>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaAndleeb&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
+</div> -->
 
 ---
 
