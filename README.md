@@ -1,5 +1,10 @@
-# Ayesha Andleeb 🚀  
-**Graduate Aspirant | AI & ML Engineer**
+<div align="center">
+
+# 🚀 I am Ayesha Andleeb  
+### **Software Engineer | AI Researcher | Aspiring PhD Candidate**  
+
+
+</div>
 
 ---
 
@@ -64,4 +69,8 @@
 
 ---
 
-Made with ❤️ by **Ayesha Andleeb**
+<div align="center">
+
+### 🚀 **Pushing the Boundaries of Innovation**  
+
+</div>
