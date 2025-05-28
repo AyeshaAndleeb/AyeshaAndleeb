@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 I am Ayesha Andleeb  
-### **Software Engineer | AI Researcher | Aspiring PhD Candidate**  
+### **Software Engineer | AI Researcher | Aspiring Graduate Candidate**  
 
 
 </div>
